@@ -1,28 +1,5 @@
 ## Forward Tag Remover Bot 🤖
 >A Telegram Bot 🤖 to hide forward source
-
-<br/>
-
-### 🤗Express Your ❤️ With A Star ⭐️ To The Repo And Donation😇
-
-
-```
-Bitcoin -> 
-bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2
-
-Litecoin -> 
-ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e
-
-Ethereum -> 
-0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe
-
-Bitcoin Cash ->
-qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
-
-```
-
-<br/>
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
